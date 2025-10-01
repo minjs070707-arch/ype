@@ -27,6 +27,7 @@ public class test extends LinearOpMode {
                 }
                 if (gamepad1.y)
                     mo.setPower(gamepad1.right_stick_y);
+                //아무거나
 
                 }
             }
